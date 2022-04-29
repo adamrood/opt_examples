@@ -1,8 +1,3 @@
-##Adam S. Rood
-##CSE 545-50 (Artificial Intelligence)
-##Project #4
-##09/21/20
-
 ##import packages
 import pandas as pd
 import numpy as np
